@@ -1,0 +1,4 @@
+/dataset/
+/runs/
+/downloader.py
+yolo*.pt
